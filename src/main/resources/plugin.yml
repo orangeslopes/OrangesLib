@@ -1,0 +1,8 @@
+name: OrangesLib
+description: A library for orangeslopes' plugins to use.
+main: io.orangeslopes.pluginlib.Plugin
+version: 1.0.0
+api-version: 1.18
+authors:
+  - GToidZ
+prefix: 🍊Lib
